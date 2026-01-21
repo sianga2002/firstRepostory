@@ -1,1 +1,2 @@
 Hellow, Welcome to git tutorial jane
+The next video will be how to add, commit, and pull contents from the remote repository to the my local repository.
